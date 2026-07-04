@@ -1,0 +1,19 @@
+#Technology
+algorithm,Step by step instructions to solve a problem
+keyboard,Input device with keys you type on
+compiler,Converts source code into machine code
+firewall,Protects a network from unauthorized access
+bandwidth,Amount of data that can be transferred over time
+debugging,Process of finding and fixing errors in code
+processor,The brain of a computer that executes instructions
+encryption,Process of converting data into a secret code
+
+#Hangman
+gallows,Wooden structure used for hanging in the game
+noose,Loop of rope tied around the neck
+scaffold,Platform used for executions historically
+guess,What you do when trying to find the letter
+alphabet,Full set of 26 letters used in English
+letters,Individual characters that make up a word
+puzzle,A game or problem designed to test knowledge
+wordplay,Clever or witty use of words
