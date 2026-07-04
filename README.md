@@ -1,3 +1,4 @@
+
 # Hangman Game (C)
 
 A classic Hangman game built in C, featuring category-based word lists, 
@@ -41,3 +42,4 @@ Hangman-Game-C/
 ## Author
 
 CyRTon_
+
