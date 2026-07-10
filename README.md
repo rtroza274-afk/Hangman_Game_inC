@@ -77,7 +77,8 @@ gcc main.c hangman.c -o hangman
 
 ## Author
 
-```Raiana Tabassum Roza
+```
+Raiana Tabassum Roza
 Israt Jahan Jerin
 Tanzeem Hasan
 Ayman-bin-salim
