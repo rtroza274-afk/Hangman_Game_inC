@@ -53,9 +53,9 @@ A classic **Hangman word-guessing game** developed entirely in **C**. The projec
 ```
 Hangman_Game_inC/
 ├── data/
-│   └── words.txt        # Word bank used by the game
-├── main.c                # Program entry point
-├── hangman.c              # Core game logic
+│   └── words.txt           # Word bank used by the game
+├── main.c                  # Program entry point
+├── hangman.c               # Core game logic
 ├── hangman.h               # Function declarations & shared definitions
 ├── requirements.txt        # Build/setup notes
 └── README.md               # Project documentation
@@ -77,9 +77,10 @@ gcc main.c hangman.c -o hangman
 
 ## Author
 
-Raiana Tabassum Roza
+```Raiana Tabassum Roza
 Israt Jahan Jerin
 Tanzeem Hasan
 Ayman-bin-salim
+```
 
 
